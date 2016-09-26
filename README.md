@@ -1,4 +1,4 @@
 # hello-world
 Hello World!
 
-This is my first ever editing on GitHub!
+This is my first ever edit on GitHub!
